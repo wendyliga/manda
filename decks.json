@@ -12,50 +12,35 @@
         "hanzi": "你好",
         "pinyin": "nǐ hǎo",
         "english": "Hello",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 0,
-        "isMastered": false
+        "sortIndex": 0
       },
       {
         "id": "greetings-002",
         "hanzi": "谢谢",
         "pinyin": "xièxie",
         "english": "Thank you",
-        "mode": "multipleChoice",
-        "distractors": ["Goodbye", "Please"],
-        "sortIndex": 1,
-        "isMastered": false
+        "sortIndex": 1
       },
       {
         "id": "greetings-003",
         "hanzi": "再见",
         "pinyin": "zàijiàn",
         "english": "Goodbye",
-        "mode": "typeIn",
-        "distractors": [],
-        "sortIndex": 2,
-        "isMastered": false
+        "sortIndex": 2
       },
       {
         "id": "greetings-004",
         "hanzi": "请",
         "pinyin": "qǐng",
         "english": "Please",
-        "mode": "swipe",
-        "distractors": [],
-        "sortIndex": 3,
-        "isMastered": false
+        "sortIndex": 3
       },
       {
         "id": "greetings-005",
         "hanzi": "对不起",
         "pinyin": "duìbuqǐ",
         "english": "Sorry",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 4,
-        "isMastered": false
+        "sortIndex": 4
       }
     ]
   },
@@ -72,100 +57,70 @@
         "hanzi": "一",
         "pinyin": "yī",
         "english": "One",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 0,
-        "isMastered": false
+        "sortIndex": 0
       },
       {
         "id": "numbers-1-10-002",
         "hanzi": "二",
         "pinyin": "èr",
         "english": "Two",
-        "mode": "multipleChoice",
-        "distractors": ["Three", "Four"],
-        "sortIndex": 1,
-        "isMastered": false
+        "sortIndex": 1
       },
       {
         "id": "numbers-1-10-003",
         "hanzi": "三",
         "pinyin": "sān",
         "english": "Three",
-        "mode": "typeIn",
-        "distractors": [],
-        "sortIndex": 2,
-        "isMastered": false
+        "sortIndex": 2
       },
       {
         "id": "numbers-1-10-004",
         "hanzi": "四",
         "pinyin": "sì",
         "english": "Four",
-        "mode": "swipe",
-        "distractors": [],
-        "sortIndex": 3,
-        "isMastered": false
+        "sortIndex": 3
       },
       {
         "id": "numbers-1-10-005",
         "hanzi": "五",
         "pinyin": "wǔ",
         "english": "Five",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 4,
-        "isMastered": false
+        "sortIndex": 4
       },
       {
         "id": "numbers-1-10-006",
         "hanzi": "六",
         "pinyin": "liù",
         "english": "Six",
-        "mode": "multipleChoice",
-        "distractors": ["Seven", "Eight"],
-        "sortIndex": 5,
-        "isMastered": false
+        "sortIndex": 5
       },
       {
         "id": "numbers-1-10-007",
         "hanzi": "七",
         "pinyin": "qī",
         "english": "Seven",
-        "mode": "typeIn",
-        "distractors": [],
-        "sortIndex": 6,
-        "isMastered": false
+        "sortIndex": 6
       },
       {
         "id": "numbers-1-10-008",
         "hanzi": "八",
         "pinyin": "bā",
         "english": "Eight",
-        "mode": "swipe",
-        "distractors": [],
-        "sortIndex": 7,
-        "isMastered": false
+        "sortIndex": 7
       },
       {
         "id": "numbers-1-10-009",
         "hanzi": "九",
         "pinyin": "jiǔ",
         "english": "Nine",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 8,
-        "isMastered": false
+        "sortIndex": 8
       },
       {
         "id": "numbers-1-10-010",
         "hanzi": "十",
         "pinyin": "shí",
         "english": "Ten",
-        "mode": "multipleChoice",
-        "distractors": ["One", "Two"],
-        "sortIndex": 9,
-        "isMastered": false
+        "sortIndex": 9
       }
     ]
   },
@@ -182,70 +137,49 @@
         "hanzi": "妈妈",
         "pinyin": "māma",
         "english": "Mom",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 0,
-        "isMastered": false
+        "sortIndex": 0
       },
       {
         "id": "family-members-002",
         "hanzi": "爸爸",
         "pinyin": "bàba",
         "english": "Dad",
-        "mode": "multipleChoice",
-        "distractors": ["Brother", "Friend"],
-        "sortIndex": 1,
-        "isMastered": false
+        "sortIndex": 1
       },
       {
         "id": "family-members-003",
         "hanzi": "哥哥",
         "pinyin": "gēge",
         "english": "Older brother",
-        "mode": "typeIn",
-        "distractors": [],
-        "sortIndex": 2,
-        "isMastered": false
+        "sortIndex": 2
       },
       {
         "id": "family-members-004",
         "hanzi": "姐姐",
         "pinyin": "jiějie",
         "english": "Older sister",
-        "mode": "swipe",
-        "distractors": [],
-        "sortIndex": 3,
-        "isMastered": false
+        "sortIndex": 3
       },
       {
         "id": "family-members-005",
         "hanzi": "弟弟",
         "pinyin": "dìdi",
         "english": "Younger brother",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 4,
-        "isMastered": false
+        "sortIndex": 4
       },
       {
         "id": "family-members-006",
         "hanzi": "妹妹",
         "pinyin": "mèimei",
         "english": "Younger sister",
-        "mode": "multipleChoice",
-        "distractors": ["Mom", "Grandma"],
-        "sortIndex": 5,
-        "isMastered": false
+        "sortIndex": 5
       },
       {
         "id": "family-members-007",
         "hanzi": "家",
         "pinyin": "jiā",
         "english": "Family / Home",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 6,
-        "isMastered": false
+        "sortIndex": 6
       }
     ]
   },
@@ -262,70 +196,49 @@
         "hanzi": "饭",
         "pinyin": "fàn",
         "english": "Rice / Meal",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 0,
-        "isMastered": false
+        "sortIndex": 0
       },
       {
         "id": "food-drinks-002",
         "hanzi": "水",
         "pinyin": "shuǐ",
         "english": "Water",
-        "mode": "multipleChoice",
-        "distractors": ["Tea", "Milk"],
-        "sortIndex": 1,
-        "isMastered": false
+        "sortIndex": 1
       },
       {
         "id": "food-drinks-003",
         "hanzi": "茶",
         "pinyin": "chá",
         "english": "Tea",
-        "mode": "typeIn",
-        "distractors": [],
-        "sortIndex": 2,
-        "isMastered": false
+        "sortIndex": 2
       },
       {
         "id": "food-drinks-004",
         "hanzi": "牛奶",
         "pinyin": "niúnǎi",
         "english": "Milk",
-        "mode": "swipe",
-        "distractors": [],
-        "sortIndex": 3,
-        "isMastered": false
+        "sortIndex": 3
       },
       {
         "id": "food-drinks-005",
         "hanzi": "面",
         "pinyin": "miàn",
         "english": "Noodles",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 4,
-        "isMastered": false
+        "sortIndex": 4
       },
       {
         "id": "food-drinks-006",
         "hanzi": "苹果",
         "pinyin": "píngguǒ",
         "english": "Apple",
-        "mode": "multipleChoice",
-        "distractors": ["Banana", "Orange"],
-        "sortIndex": 5,
-        "isMastered": false
+        "sortIndex": 5
       },
       {
         "id": "food-drinks-007",
         "hanzi": "香蕉",
         "pinyin": "xiāngjiāo",
         "english": "Banana",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 6,
-        "isMastered": false
+        "sortIndex": 6
       }
     ]
   },
@@ -342,70 +255,49 @@
         "hanzi": "学校",
         "pinyin": "xuéxiào",
         "english": "School",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 0,
-        "isMastered": false
+        "sortIndex": 0
       },
       {
         "id": "places-around-town-002",
         "hanzi": "商店",
         "pinyin": "shāngdiàn",
         "english": "Shop",
-        "mode": "multipleChoice",
-        "distractors": ["Park", "Hospital"],
-        "sortIndex": 1,
-        "isMastered": false
+        "sortIndex": 1
       },
       {
         "id": "places-around-town-003",
         "hanzi": "饭店",
         "pinyin": "fàndiàn",
         "english": "Restaurant",
-        "mode": "typeIn",
-        "distractors": [],
-        "sortIndex": 2,
-        "isMastered": false
+        "sortIndex": 2
       },
       {
         "id": "places-around-town-004",
         "hanzi": "公园",
         "pinyin": "gōngyuán",
         "english": "Park",
-        "mode": "swipe",
-        "distractors": [],
-        "sortIndex": 3,
-        "isMastered": false
+        "sortIndex": 3
       },
       {
         "id": "places-around-town-005",
         "hanzi": "医院",
         "pinyin": "yīyuàn",
         "english": "Hospital",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 4,
-        "isMastered": false
+        "sortIndex": 4
       },
       {
         "id": "places-around-town-006",
         "hanzi": "银行",
         "pinyin": "yínháng",
         "english": "Bank",
-        "mode": "multipleChoice",
-        "distractors": ["School", "Restaurant"],
-        "sortIndex": 5,
-        "isMastered": false
+        "sortIndex": 5
       },
       {
         "id": "places-around-town-007",
         "hanzi": "家",
         "pinyin": "jiā",
         "english": "Home",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 6,
-        "isMastered": false
+        "sortIndex": 6
       }
     ]
   },
@@ -422,70 +314,49 @@
         "hanzi": "去",
         "pinyin": "qù",
         "english": "Go",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 0,
-        "isMastered": false
+        "sortIndex": 0
       },
       {
         "id": "daily-actions-002",
         "hanzi": "来",
         "pinyin": "lái",
         "english": "Come",
-        "mode": "multipleChoice",
-        "distractors": ["Go", "Look"],
-        "sortIndex": 1,
-        "isMastered": false
+        "sortIndex": 1
       },
       {
         "id": "daily-actions-003",
         "hanzi": "看",
         "pinyin": "kàn",
         "english": "Look / Watch",
-        "mode": "typeIn",
-        "distractors": [],
-        "sortIndex": 2,
-        "isMastered": false
+        "sortIndex": 2
       },
       {
         "id": "daily-actions-004",
         "hanzi": "听",
         "pinyin": "tīng",
         "english": "Listen",
-        "mode": "swipe",
-        "distractors": [],
-        "sortIndex": 3,
-        "isMastered": false
+        "sortIndex": 3
       },
       {
         "id": "daily-actions-005",
         "hanzi": "说",
         "pinyin": "shuō",
         "english": "Speak / Say",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 4,
-        "isMastered": false
+        "sortIndex": 4
       },
       {
         "id": "daily-actions-006",
         "hanzi": "吃",
         "pinyin": "chī",
         "english": "Eat",
-        "mode": "multipleChoice",
-        "distractors": ["Drink", "Sleep"],
-        "sortIndex": 5,
-        "isMastered": false
+        "sortIndex": 5
       },
       {
         "id": "daily-actions-007",
         "hanzi": "喝",
         "pinyin": "hē",
         "english": "Drink",
-        "mode": "flip",
-        "distractors": [],
-        "sortIndex": 6,
-        "isMastered": false
+        "sortIndex": 6
       }
     ]
   }
