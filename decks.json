@@ -180,6 +180,132 @@
         "pinyin": "jiā",
         "english": "Family / Home",
         "sortIndex": 6
+      },
+      {
+        "id": "family-members-008",
+        "hanzi": "父母",
+        "pinyin": "fùmǔ",
+        "english": "Parents",
+        "sortIndex": 7
+      },
+      {
+        "id": "family-members-009",
+        "hanzi": "孩子",
+        "pinyin": "háizi",
+        "english": "Child",
+        "sortIndex": 8
+      },
+      {
+        "id": "family-members-010",
+        "hanzi": "儿子",
+        "pinyin": "érzi",
+        "english": "Son",
+        "sortIndex": 9
+      },
+      {
+        "id": "family-members-011",
+        "hanzi": "女儿",
+        "pinyin": "nǚ'ér",
+        "english": "Daughter",
+        "sortIndex": 10
+      },
+      {
+        "id": "family-members-012",
+        "hanzi": "丈夫",
+        "pinyin": "zhàngfu",
+        "english": "Husband",
+        "sortIndex": 11
+      },
+      {
+        "id": "family-members-013",
+        "hanzi": "妻子",
+        "pinyin": "qīzi",
+        "english": "Wife",
+        "sortIndex": 12
+      },
+      {
+        "id": "family-members-014",
+        "hanzi": "爷爷",
+        "pinyin": "yéye",
+        "english": "Grandpa",
+        "sortIndex": 13
+      },
+      {
+        "id": "family-members-015",
+        "hanzi": "奶奶",
+        "pinyin": "nǎinai",
+        "english": "Grandma",
+        "sortIndex": 14
+      },
+      {
+        "id": "family-members-016",
+        "hanzi": "外公",
+        "pinyin": "wàigōng",
+        "english": "Maternal grandpa",
+        "sortIndex": 15
+      },
+      {
+        "id": "family-members-017",
+        "hanzi": "外婆",
+        "pinyin": "wàipó",
+        "english": "Maternal grandma",
+        "sortIndex": 16
+      },
+      {
+        "id": "family-members-018",
+        "hanzi": "叔叔",
+        "pinyin": "shūshu",
+        "english": "Uncle",
+        "sortIndex": 17
+      },
+      {
+        "id": "family-members-019",
+        "hanzi": "阿姨",
+        "pinyin": "āyí",
+        "english": "Auntie / Aunt",
+        "sortIndex": 18
+      },
+      {
+        "id": "family-members-020",
+        "hanzi": "舅舅",
+        "pinyin": "jiùjiu",
+        "english": "Maternal uncle",
+        "sortIndex": 19
+      },
+      {
+        "id": "family-members-021",
+        "hanzi": "伯伯",
+        "pinyin": "bóbo",
+        "english": "Uncle (father's older brother)",
+        "sortIndex": 20
+      },
+      {
+        "id": "family-members-022",
+        "hanzi": "表哥",
+        "pinyin": "biǎogē",
+        "english": "Older male cousin",
+        "sortIndex": 21
+      },
+      {
+        "id": "family-members-023",
+        "hanzi": "表姐",
+        "pinyin": "biǎojiě",
+        "english": "Older female cousin",
+        "sortIndex": 22
+      },
+      {
+        "id": "family-members-024",
+        "hanzi": "堂弟",
+        "pinyin": "tángdì",
+        "english": "Younger male cousin",
+        "sortIndex": 23
+      },
+      {
+        "id": "family-members-025",
+        "hanzi": "亲戚",
+        "pinyin": "qīnqi",
+        "english": "Relatives",
+        "sortIndex": 24
       }
     ]
   },
