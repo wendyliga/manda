@@ -5,7 +5,6 @@
     "subtitle": "Say hello & goodbye",
     "coverMark": "你好",
     "accentHex": "FF5A46",
-    "sortIndex": 0,
     "cards": [
       {
         "id": "greetings-001",
@@ -50,7 +49,6 @@
     "subtitle": "Count like a local",
     "coverMark": "一二三",
     "accentHex": "FFB627",
-    "sortIndex": 1,
     "cards": [
       {
         "id": "numbers-1-10-001",
@@ -130,7 +128,6 @@
     "subtitle": "Talk about your family",
     "coverMark": "家",
     "accentHex": "FF8A65",
-    "sortIndex": 2,
     "cards": [
       {
         "id": "family-members-001",
@@ -315,7 +312,6 @@
     "subtitle": "Order simple favorites",
     "coverMark": "饭",
     "accentHex": "FF7043",
-    "sortIndex": 3,
     "cards": [
       {
         "id": "food-drinks-001",
@@ -374,7 +370,6 @@
     "subtitle": "Find where you need to go",
     "coverMark": "店",
     "accentHex": "FF6F91",
-    "sortIndex": 4,
     "cards": [
       {
         "id": "places-around-town-001",
@@ -433,7 +428,6 @@
     "subtitle": "Talk about everyday moves",
     "coverMark": "去",
     "accentHex": "FF9F1C",
-    "sortIndex": 5,
     "cards": [
       {
         "id": "daily-actions-001",
